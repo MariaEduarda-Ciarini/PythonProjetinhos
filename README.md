@@ -1,2 +1,1 @@
-# C-digos-b-sicos-em-Python
-Python
+# Códigos básicos em Python
