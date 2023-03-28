@@ -1,2 +1,2 @@
-# Códigos básicos em Python
+# Códigos básicos em Python, nível introdutório.
 # Clássico exercício de iniciante.
